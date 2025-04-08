@@ -1,0 +1,27 @@
+baseURL = "https://porfolio-irene-uson.netlify.app/"
+languageCode = "es-es"
+title = "Portfolio de Irene Usón"
+theme = "creative-portfolio"
+
+[params]
+  author = "Irene Usón"
+  defaultTheme = "light"
+
+[params.homeInfoParams]
+  Title = "Hola 👋"
+  Content = "Soy ingeniera industrial especializada en desarrollo de producto y diseño funcional. Bienvenida a mi espacio profesional."
+
+[[menu.main]]
+  name = "Sobre mí"
+  url = "/about/"
+  weight = 1
+
+[[menu.main]]
+  name = "Proyectos"
+  url = "/projects/"
+  weight = 2
+
+[[menu.main]]
+  name = "Contacto"
+  url = "/contact/"
+  weight = 3

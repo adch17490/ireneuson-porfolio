@@ -1,4 +1,4 @@
-baseurl = "https://ireneuson.eu/"
+baseurl = "https://ireneuson.netlify.app"
 title = "Porfolio de Irene Usón"
 theme = "creative-portfolio"
 languageCode = "es-es"
